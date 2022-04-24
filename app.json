@@ -8,7 +8,7 @@
     "forward",
     "bot"
   ],
-  "repository": "https://github.com/JiC54/Kuba-ma-file",
+  "repository": "https://github.com/JiC54two/Kuba-ma-file",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
